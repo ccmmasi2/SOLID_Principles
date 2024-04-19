@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Solid S", "1 - Solid S", "{E70580B9-E539-47F6-8D4A-7CFEAA13921F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Solid o", "2 - Solid o", "{CB469B7A-2322-473C-B5CC-7127793EA8E0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Solid l", "3 - Solid l", "{9A65F572-4425-4BF0-A32F-019BBF06F1B0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Solid i", "4 - Solid i", "{A2321CF5-362A-4D60-BFE4-282E1107BE55}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Solid d", "5 - Solid d", "{84628F18-97F4-419D-AB27-1C0C7E735C8D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem", "Problem", "{72DF05E7-8584-4F01-8B8F-08CA533E4DF6}"
+	ProjectSection(SolutionItems) = preProject
+		1_Solid_S_Problem.cs = 1_Solid_S_Problem.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution", "Solution", "{088BA155-881E-4DA7-8BF2-F7CD9E5DC768}"
+	ProjectSection(SolutionItems) = preProject
+		1_Solid_S_Solution.cs = 1_Solid_S_Solution.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem", "Problem", "{E27DE682-6AD5-4AB7-8B03-0FF837EED777}"
+	ProjectSection(SolutionItems) = preProject
+		2_Solid_O_Problem.cs = 2_Solid_O_Problem.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem", "Problem", "{C4EBE4E1-D0F9-439B-9EBA-ED0218B68631}"
+	ProjectSection(SolutionItems) = preProject
+		3_Solid_L_Problem.cs = 3_Solid_L_Problem.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem", "Problem", "{6A9E5E54-DFD6-46A8-B77A-DCCB0131D607}"
+	ProjectSection(SolutionItems) = preProject
+		4_Solid_I_Problem.cs = 4_Solid_I_Problem.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem", "Problem", "{040EAA3B-918E-4AD2-BC77-9BB7229B8141}"
+	ProjectSection(SolutionItems) = preProject
+		5_Solid_D_Problem.cs = 5_Solid_D_Problem.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution", "Solution", "{9E381BA7-016C-410F-8AB8-E2BCA761BBEC}"
+	ProjectSection(SolutionItems) = preProject
+		2_Solid_O_Solution.cs = 2_Solid_O_Solution.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution", "Solution", "{ED840FE9-2938-480E-9200-2F5B392D3996}"
+	ProjectSection(SolutionItems) = preProject
+		3_Solid_L_Solution.cs = 3_Solid_L_Solution.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution", "Solution", "{E82A5D89-32E2-4F6B-9FDB-DCC6CCB1E0B4}"
+	ProjectSection(SolutionItems) = preProject
+		4_Solid_I_Solution.cs = 4_Solid_I_Solution.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution", "Solution", "{2F207E62-0F72-45B6-994D-174E889AFFED}"
+	ProjectSection(SolutionItems) = preProject
+		5_Solid_D_Solution.cs = 5_Solid_D_Solution.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{72DF05E7-8584-4F01-8B8F-08CA533E4DF6} = {E70580B9-E539-47F6-8D4A-7CFEAA13921F}
+		{088BA155-881E-4DA7-8BF2-F7CD9E5DC768} = {E70580B9-E539-47F6-8D4A-7CFEAA13921F}
+		{E27DE682-6AD5-4AB7-8B03-0FF837EED777} = {CB469B7A-2322-473C-B5CC-7127793EA8E0}
+		{C4EBE4E1-D0F9-439B-9EBA-ED0218B68631} = {9A65F572-4425-4BF0-A32F-019BBF06F1B0}
+		{6A9E5E54-DFD6-46A8-B77A-DCCB0131D607} = {A2321CF5-362A-4D60-BFE4-282E1107BE55}
+		{040EAA3B-918E-4AD2-BC77-9BB7229B8141} = {84628F18-97F4-419D-AB27-1C0C7E735C8D}
+		{9E381BA7-016C-410F-8AB8-E2BCA761BBEC} = {CB469B7A-2322-473C-B5CC-7127793EA8E0}
+		{ED840FE9-2938-480E-9200-2F5B392D3996} = {9A65F572-4425-4BF0-A32F-019BBF06F1B0}
+		{E82A5D89-32E2-4F6B-9FDB-DCC6CCB1E0B4} = {A2321CF5-362A-4D60-BFE4-282E1107BE55}
+		{2F207E62-0F72-45B6-994D-174E889AFFED} = {84628F18-97F4-419D-AB27-1C0C7E735C8D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {327FD910-16AC-4DE4-BEF3-17BA4A3713CE}
+	EndGlobalSection
+EndGlobal
