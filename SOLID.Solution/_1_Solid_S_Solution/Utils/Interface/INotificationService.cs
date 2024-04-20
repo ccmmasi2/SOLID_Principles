@@ -2,6 +2,6 @@
 {
     public interface INotificationService
     {
-        bool SendEmail(string message);
+        bool SendNotification(string message);
     }
 }

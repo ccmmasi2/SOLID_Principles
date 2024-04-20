@@ -18,7 +18,7 @@ namespace _1_Solid_S_Solution.Solution.API.Services
         public bool CreateInvoice(OrderHdrDTO order)
         {
             _invoiceRepository.CreateInvoice(order);
-            _notificationRepository.SendEmail("Invoice");
+            _notificationRepository.SendNotification("messageText");
 
             return true;
         }

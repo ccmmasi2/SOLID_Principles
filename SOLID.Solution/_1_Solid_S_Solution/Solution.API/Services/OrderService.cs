@@ -18,7 +18,7 @@ namespace _1_Solid_S_Solution.Solution.API.Services
         public bool CreateOrder(OrderHdrDTO order)
         {
             _orderRepository.CreateOrder(order);
-            _notificationRepository.SendEmail("Order");
+            _notificationRepository.SendNotification("messageText");
 
             return true;
         }

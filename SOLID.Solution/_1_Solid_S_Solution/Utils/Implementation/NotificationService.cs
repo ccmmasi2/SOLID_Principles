@@ -4,7 +4,7 @@ namespace _1_Solid_S_Solution.Utils.Implementation
 {
     public class NotificationService : INotificationService
     {
-        public bool SendEmail(string message)
+        public bool SendNotification(string message)
         {
             return true;
         }
