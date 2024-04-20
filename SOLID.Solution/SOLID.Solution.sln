@@ -18,44 +18,20 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution", "Solution", "{088BA155-881E-4DA7-8BF2-F7CD9E5DC768}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem", "Problem", "{E27DE682-6AD5-4AB7-8B03-0FF837EED777}"
-	ProjectSection(SolutionItems) = preProject
-		2_Solid_O_Problem.cs = 2_Solid_O_Problem.cs
-	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem", "Problem", "{C4EBE4E1-D0F9-439B-9EBA-ED0218B68631}"
-	ProjectSection(SolutionItems) = preProject
-		3_Solid_L_Problem.cs = 3_Solid_L_Problem.cs
-	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem", "Problem", "{6A9E5E54-DFD6-46A8-B77A-DCCB0131D607}"
-	ProjectSection(SolutionItems) = preProject
-		4_Solid_I_Problem.cs = 4_Solid_I_Problem.cs
-	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem", "Problem", "{040EAA3B-918E-4AD2-BC77-9BB7229B8141}"
-	ProjectSection(SolutionItems) = preProject
-		5_Solid_D_Problem.cs = 5_Solid_D_Problem.cs
-	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution", "Solution", "{9E381BA7-016C-410F-8AB8-E2BCA761BBEC}"
-	ProjectSection(SolutionItems) = preProject
-		2_Solid_O_Solution.cs = 2_Solid_O_Solution.cs
-	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution", "Solution", "{ED840FE9-2938-480E-9200-2F5B392D3996}"
-	ProjectSection(SolutionItems) = preProject
-		3_Solid_L_Solution.cs = 3_Solid_L_Solution.cs
-	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution", "Solution", "{E82A5D89-32E2-4F6B-9FDB-DCC6CCB1E0B4}"
-	ProjectSection(SolutionItems) = preProject
-		4_Solid_I_Solution.cs = 4_Solid_I_Solution.cs
-	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution", "Solution", "{2F207E62-0F72-45B6-994D-174E889AFFED}"
-	ProjectSection(SolutionItems) = preProject
-		5_Solid_D_Solution.cs = 5_Solid_D_Solution.cs
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_1_Solid_S_Solution", "1_Solid_S_Solution\_1_Solid_S_Solution.csproj", "{93E13911-C4E3-434A-9E55-FBAEF3C085C3}"
 EndProject
