@@ -1,1 +1,4 @@
+SOLID S
+Single responsibility principle
+
 Here we have separated each logic in a different class, respecting the Single Responsability Principle
