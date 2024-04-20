@@ -48,3 +48,14 @@ This principle says many specific classes are better than big one
 
 On this project we have IOrchestadorService class, this class try to do everything, works with category, product, customer, stock all of them different things. 
 This is a mistake, the principle says interface should have relative things. 
+
+
+/**********************************
+
+
+SOLID D
+Dependence Inversion principle
+
+This principle says we need to depend of abstractions but concret classes
+
+the controller files are using other classes to do their work, but making this we are breaking this principle, because of we need to use abstractions instead of classes. 

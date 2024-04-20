@@ -1,0 +1,6 @@
+SOLID D
+Dependence Inversion principle
+
+This principle says we need to depend of abstractions but concret classes
+
+the controller files are using other classes to do their work, but making this we are breaking this principle, because of we need to use abstractions instead of classes. 
