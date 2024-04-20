@@ -1,0 +1,2 @@
+Here we have added methods to NotificationService using Interfaces, respecting the Open-Closed Principle. 
+Creating interfaces and make reference to this abstraction, the component don't know if is going to notify via Gmail, Hotmail, Api or any other method. 
