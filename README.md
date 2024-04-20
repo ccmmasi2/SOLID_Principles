@@ -38,3 +38,13 @@ For this excercise suppose for an Order we are allowed to CreateOrder, GetAll, G
 on ObjectRepository -> InvoiceRepository we are implementing all of methods, although we already know we don't need all of them. 
 
 We are breaking the Liskov substitution principle, because we can't replace our derived class InvoiceRepository by its parent BaseRepository. For one class We only need Create, GetAll and GetOne but Update, and as we are using this interface, we have to implement all of these methods, even we don't needed.  
+
+
+/**********************************
+
+SOLID I
+Interfaces segratation principle
+This principle says many specific classes are better than big one 
+
+On this project we have IOrchestadorService class, this class try to do everything, works with category, product, customer, stock all of them different things. 
+This is a mistake, the principle says interface should have relative things. 

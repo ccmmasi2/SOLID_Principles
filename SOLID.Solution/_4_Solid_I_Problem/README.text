@@ -1,3 +1,6 @@
 SOLID I
 Interfaces segratation principle
 This principle says many specific classes are better than big one 
+
+On this project we have IOrchestadorService class, this class try to do everything, works with category, product, customer, stock all of them different things. 
+This is a mistake, the principle says interface should have relative things. 

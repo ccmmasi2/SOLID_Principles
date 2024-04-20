@@ -1,0 +1,6 @@
+SOLID I
+Interfaces segratation principle
+This principle says many specific classes are better than big one 
+
+now our OrchestadorService doesn't have all burned methods, now implements interfaces respecting the Interfaces Segregation principle
+ 
