@@ -1,8 +1,8 @@
-﻿using _2_Solid_O_Solution.Models;
-using _2_Solid_O_Solution.Solution.Data.ObjectRepository.Interface;
-using _2_Solid_O_Solution.Utils.Notification;
+﻿using _3_Solid_L_Problem.Models;
+using _3_Solid_L_Problem.Solution.Data.ObjectRepository.Interface;
+using _3_Solid_L_Problem.Utils.Notification;
 
-namespace _2_Solid_O_Solution.Solution.API.Services
+namespace _3_Solid_L_Problem.Solution.API.Services
 {
     public class InvoiceService
     {

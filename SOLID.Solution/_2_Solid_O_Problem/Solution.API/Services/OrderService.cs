@@ -1,5 +1,5 @@
 ﻿using _2_Solid_O_Problem.Models;
-using _2_Solid_O_Problem.Solution.Data.Repository.Interface;
+using _2_Solid_O_Problem.Solution.Data.ObjectRepository.Interface;
 using _2_Solid_O_Problem.Utils.Interface;
 
 namespace _2_Solid_O_Problem.Solution.API.Services

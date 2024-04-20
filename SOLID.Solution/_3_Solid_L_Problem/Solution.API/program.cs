@@ -1,9 +1,9 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 
-using _2_Solid_O_Solution.Solution.API.Services;
-using _2_Solid_O_Solution.Solution.Data.ObjectRepository.Interface;
-using _2_Solid_O_Solution.Utils.Notification;
-using _2_Solid_O_Solution.Utils.Notification.Base;
+using _3_Solid_L_Problem.Solution.API.Services;
+using _3_Solid_L_Problem.Solution.Data.ObjectRepository.Interface;
+using _3_Solid_L_Problem.Utils.Notification;
+using _3_Solid_L_Problem.Utils.Notification.Base;
 
 public class program
 {

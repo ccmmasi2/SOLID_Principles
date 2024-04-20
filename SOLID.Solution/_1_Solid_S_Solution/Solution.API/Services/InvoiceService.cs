@@ -1,5 +1,5 @@
 ﻿using _1_Solid_S_Solution.Models;
-using _1_Solid_S_Solution.Solution.Data.Repository.Interface;
+using _1_Solid_S_Solution.Solution.Data.ObjectRepository.Interface;
 using _1_Solid_S_Solution.Utils.Interface;
 
 namespace _1_Solid_S_Solution.Solution.API.Services
