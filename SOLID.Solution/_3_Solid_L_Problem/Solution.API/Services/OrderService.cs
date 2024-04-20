@@ -22,5 +22,26 @@ namespace _3_Solid_L_Problem.Solution.API.Services
 
             return true;
         }
+
+        public IEnumerable<object> GetAll()
+        {
+            var list = _orderRepository.GetAll();
+
+            return list;
+        }
+
+        public object GetOne(string filter)
+        {
+            var item = _orderRepository.GetOne(filter);
+
+            return item;
+        }
+
+        public bool Update(object item)
+        {
+            var booleanValue = _orderRepository.Update(item);
+
+            return booleanValue;
+        }
     }
 }

@@ -1,4 +1,5 @@
 ﻿using _3_Solid_L_Problem.Models;
+using _3_Solid_L_Problem.Solution.Data.ObjectRepository.Implementation;
 using _3_Solid_L_Problem.Solution.Data.ObjectRepository.Interface;
 using _3_Solid_L_Problem.Utils.Notification;
 
@@ -21,6 +22,20 @@ namespace _3_Solid_L_Problem.Solution.API.Services
             _notificationRepository.SendNotification("messageText");
 
             return true;
+        }
+
+        public IEnumerable<object> GetAll()
+        {
+            var list = _invoiceRepository.GetAll();
+
+            return list;
+        }
+
+        public object GetOne(string filter)
+        {
+            var item = _invoiceRepository.GetOne(filter);
+
+            return item;
         }
     }
 }
