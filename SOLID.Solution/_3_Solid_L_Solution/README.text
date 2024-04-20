@@ -1,0 +1,6 @@
+SOLID
+Liskov substitution principle. (Liskov was who created this principle)
+This principle says: 
+	The derived clases could be replaceables by their base clases without altering the operation of the system
+
+Now we have created single interfaces for each operation, and our ObjectRepository can heritate only for specific interfaces
